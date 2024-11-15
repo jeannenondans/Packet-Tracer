@@ -1,4 +1,5 @@
 # Private Network Configuration with Subnets and VLANs
+![image](https://github.com/user-attachments/assets/932c2d04-b7d0-44af-9b33-3bf377ab6787)
 
 ## 1. Network Design and Segmentation
 
